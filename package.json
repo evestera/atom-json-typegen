@@ -3,8 +3,7 @@
   "main": "./lib/main",
   "version": "0.0.1",
   "description": "Accompanying package for json_typegen for Rust",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "json-typegen:expand"
   },
@@ -14,5 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "up-the-tree": "^0.3.2"
   }
 }
